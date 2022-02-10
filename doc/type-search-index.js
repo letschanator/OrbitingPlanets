@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Moon"},{"p":"<Unnamed>","l":"OrbitingPlanets"},{"p":"<Unnamed>","l":"Planet"},{"p":"<Unnamed>","l":"PlanetMover"},{"p":"<Unnamed>","l":"PlanetRunner"}]
